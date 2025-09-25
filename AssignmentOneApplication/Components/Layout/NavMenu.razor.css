@@ -130,6 +130,14 @@
     height: 24px;
 }
 
+.building-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='%23FFFFFF'%3E%3Cpath d='M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+}
 
 /* Responsive Behavior */
 @media (min-width: 641px) {
